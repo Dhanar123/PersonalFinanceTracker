@@ -13,7 +13,7 @@
 ![transactions page](screenshots/transactions.png)
 
 ### Add tranasactions Page
-![tranasactions page](screenshots/tranasactions.png)
+![transactions page](screenshots/tranasactions.png)
 
 ### Add users Page
 ![users page](screenshots/users.png)
