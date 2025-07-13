@@ -1,0 +1,19 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+ <h3>   Register form  </h3>
+</title>
+</head>
+<body>
+  <h3>   Register form  </h3>
+<br> <br>
+Name:<input type="name" name="name" required>  <br> <br>
+
+Degree:<input type="degree name="degree" required>  <br> <br>
+
+Message:<br> <textarea name="message" required> </textarea> <br> <br>
+<input type="submit" value="submit">
+</body>
+</html>
