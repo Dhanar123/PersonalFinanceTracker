@@ -38,6 +38,7 @@ Add and manage transactions with category, date, and amount.
 
 Uses MySQL to store all user data and transactions.
 
+  Hence the personal finance tracking system has been built. The finance tracking will be done with the help of this tool.
 
 
 
